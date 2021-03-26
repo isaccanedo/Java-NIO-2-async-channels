@@ -7,7 +7,7 @@ Neste artigo, demonstraremos como construir um servidor simples e seu cliente us
 
 Veremos as classes AsynchronousServerSocketChannel e AsynchronousSocketChannel, que são as classes principais usadas na implementação do servidor e do cliente, respectivamente.
 
-Se você é novo nas APIs do canal NIO.2, temos um artigo introdutório neste site. Você pode lê-lo seguindo este link.
+Se você é novo nas APIs do canal NIO.2, temos um artigo introdutório que você pode lê-lo seguindo este link: https://github.com/isaccanedo/Java-NIO-selector
 
 Todas as classes necessárias para usar APIs de canal NIO.2 são agrupadas no pacote java.nio.channels:
 
